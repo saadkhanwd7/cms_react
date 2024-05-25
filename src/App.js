@@ -12,7 +12,9 @@ import { BrowserRouter as Router,Route, Routes, BrowserRouter} from "react-route
 import About from './components/About';
 import Contactus from './components/Contactus';
 
-//testing lol hi
+
+//so literally nothing happenend or what
+
 function App() {
   const btnHandle = ()=>{
     toast.error("done" , {
