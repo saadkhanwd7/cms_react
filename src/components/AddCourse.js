@@ -5,7 +5,7 @@ import base_url from "../api/bootapi";
 import { ToastContainer, toast } from 'react-toastify';
 
 
-
+//added courses
 const AddCourse=()=>{
 
     useEffect(()=>{
