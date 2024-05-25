@@ -4,7 +4,7 @@ import axios from "axios";
 import base_url from "../api/bootapi";
 import { ToastContainer, toast } from 'react-toastify';
 
-
+//add
 //added courses
 const AddCourse=()=>{
 
