@@ -16,7 +16,7 @@ const AddCourse=()=>{
     
 const[course,setCourse] = useState({});
 
-//now
+//nowf f
 
 //form handler function
 const handleForm=(e)=>{
