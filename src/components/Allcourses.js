@@ -43,7 +43,7 @@ const getAllCoursesFromServer=()=>{
     )
 }
 useEffect(()=>{
-
+//lmao
 getAllCoursesFromServer();    
     
     },[])
